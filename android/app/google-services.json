@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "600601673824",
+    "project_id": "gamereview-d076d",
+    "storage_bucket": "gamereview-d076d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600601673824:android:35d38f186edb59462ac305",
+        "android_client_info": {
+          "package_name": "com.example.game_reviews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600601673824-ek63auu87n3k6v2or52j78mkoitfqmjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSXyHPlErfqvaSsBid6BbCikQzJQtuOqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600601673824-ek63auu87n3k6v2or52j78mkoitfqmjp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "600601673824-dmi9mt68umbr9h9vu5nbo17r9ito3h8d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gameReviews"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600601673824:android:4df20686fcb971c02ac305",
+        "android_client_info": {
+          "package_name": "game_review.apk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600601673824-8df3pj4nl5otgt4jqrpgl6tt7kefi9gg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "game_review.apk",
+            "certificate_hash": "9ba0ed2656e95798b77268284c674dcfbb9d2806"
+          }
+        },
+        {
+          "client_id": "600601673824-ek63auu87n3k6v2or52j78mkoitfqmjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSXyHPlErfqvaSsBid6BbCikQzJQtuOqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600601673824-ek63auu87n3k6v2or52j78mkoitfqmjp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "600601673824-dmi9mt68umbr9h9vu5nbo17r9ito3h8d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gameReviews"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
